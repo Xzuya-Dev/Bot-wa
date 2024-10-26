@@ -17,7 +17,11 @@ pkg update && pkg upgrade -y
 pkg install node
 pkg install git
 cd Xzuya-Dev/Bot-Wa
-$node .
+npm install
+```
+## RUN IN TERMUX
+```bash
+node .
 ```
 
 ## ❗ Warning
@@ -25,7 +29,7 @@ Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
 
-Editing Number Owner in [`config.js`](https://github.com/nazedev/Bot-Wa/blob/main/config.js)
+Editing Number Owner in [`config.js`](https://github.com/Xzuya-Dev/Bot-Wa/blob/main/config.js)
 
 ### THANKS TO ###
-• Naze ( Penyedia Base )
+• [NazeDev](https://github.com/nazedev)
