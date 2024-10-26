@@ -42,7 +42,7 @@ global.pairing_code = true;
 global.fake = {
 	anonim: "https://telegra.ph/file/2e4be3986c8241128b4ce.jpg",
 	thumbnailUrl: "https://telegra.ph/file/2e4be3986c8241128b4ce.jpg",
-	thumbnail: fs.readFileSync("./src/media/naze.png"),
+	thumbnail: fs.readFileSync("./src/media/20241014_073320.jpg"),
 	docs: fs.readFileSync("./src/media/fake.pdf"),
 	listfakedocs: [
 		"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
